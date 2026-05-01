@@ -1,35 +1,36 @@
 Checklist de accesibilidad – Formulario Participa
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:Yeidi Castro
+Fecha:01/05/2026
+Nombre de la rama:yeidi castro
 
 1. ¿El formulario tiene un título claro?
 Respuesta:
+si, porque el titulo resume el objetivo del formulario y permite al usuario entender rapidaente de que se trata
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta: si, ya que indica el proposito de los datos, generando confianza y transparencia al usuario
 
 3. ¿Cada campo tiene un label o etiqueta visible?
-Respuesta:
+Respuesta:si, porque cada campo esta identificado, lo que evita confusiones al momento de diligenciarlo
 
 4. ¿El lenguaje usado es sencillo y comprensible?
-Respuesta:
+Respuesta:si, debido a que utiliza palabras claras y faciles, permitiendo que cualquier persona lo entienda
 
 5. ¿El formulario evita pedir datos innecesarios?
-Respuesta:
+Respuesta:si, porque solo solicita información relevante, respetando la privacidad del usuario
 
 6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
-Respuesta:
+Respuesta:si, ya que ofrece un espacio adecuado para que el usuario exprese sus ideas sin limitaciones.
 
 7. ¿El formulario incluye una casilla o mensaje de consentimiento?
-Respuesta:
+Respuesta:Sí, porque informa al usuario y le permite aceptar el uso de sus datos de manera consciente.
 
 8. ¿El botón de envío tiene un texto claro?
-Respuesta:
+Respuesta:Sí, porque el texto indica claramente la acción que se va a realizar, evitando errores.
 
 9. ¿La página se puede leer con facilidad?
-Respuesta:
+Respuesta:Incluir opciones de accesibilidad, como lectura en voz, contraste de colores y tamaños de letra ajustables, para facilitar su uso a más personas.
 
 10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
 Respuesta:
